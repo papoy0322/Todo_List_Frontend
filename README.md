@@ -1,1 +1,1 @@
-This is Todo_List frontend with JavaScript, TypeScript and TailwindCSS.
+This is a Todo List frontend built with JavaScript, TypeScript, and Tailwind CSS.
